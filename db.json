@@ -1,0 +1,179 @@
+{
+  "users": [
+    {
+      "email": "abc@gmail.com",
+      "password": "12345",
+      "id": 1
+    }
+  ],
+  "allQuestions": {
+    "easy": {
+      "id": 1,
+      "point": 5,
+      "questions": [
+        {
+          "id": 1,
+          "point": 5,
+          "question": "?",
+          "answers": [
+            {
+              "id": 1,
+              "isCorrect": true,
+              "answer": ""
+            }
+          ]
+        },
+        {
+          "id": 1,
+          "point": 5,
+          "question": "?",
+          "answers": [
+            {
+              "id": 1,
+              "isCorrect": true,
+              "answer": ""
+            }
+          ]
+        },
+        {
+          "id": 1,
+          "point": 5,
+          "question": "?",
+          "answers": [
+            {
+              "id": 1,
+              "isCorrect": true,
+              "answer": ""
+            }
+          ]
+        }
+      ]
+    },
+    "medium": {
+      "id": 2,
+      "point": 10,
+      "questions": [
+        {
+          "id": 1,
+          "point": 10,
+          "question": "?",
+          "answers": [
+            {
+              "id": 1,
+              "isCorrect": true,
+              "answer": ""
+            }
+          ]
+        },
+        {
+          "id": 1,
+          "point": 10,
+          "question": "?",
+          "answers": [
+            {
+              "id": 1,
+              "isCorrect": true,
+              "answer": ""
+            }
+          ]
+        },
+        {
+          "id": 1,
+          "point": 10,
+          "question": "?",
+          "answers": [
+            {
+              "id": 1,
+              "isCorrect": true,
+              "answer": ""
+            }
+          ]
+        }
+      ]
+    },
+    "hard": {
+      "id": 3,
+      "point": 15,
+      "questions": [
+        {
+          "id": 1,
+          "point": 15,
+          "question": "?",
+          "answers": [
+            {
+              "id": 1,
+              "isCorrect": true,
+              "answer": ""
+            }
+          ]
+        },
+        {
+          "id": 1,
+          "point": 15,
+          "question": "?",
+          "answers": [
+            {
+              "id": 1,
+              "isCorrect": true,
+              "answer": ""
+            }
+          ]
+        },
+        {
+          "id": 1,
+          "point": 15,
+          "question": "?",
+          "answers": [
+            {
+              "id": 1,
+              "isCorrect": true,
+              "answer": ""
+            }
+          ]
+        }
+      ]
+    },
+    "veryHard": {
+      "id": 4,
+      "point": 20,
+      "questions": [
+        {
+          "id": 1,
+          "point": 20,
+          "question": "?",
+          "answers": [
+            {
+              "id": 1,
+              "isCorrect": true,
+              "answer": ""
+            }
+          ]
+        },
+        {
+          "id": 1,
+          "point": 20,
+          "question": "?",
+          "answers": [
+            {
+              "id": 1,
+              "isCorrect": true,
+              "answer": ""
+            }
+          ]
+        },
+        {
+          "id": 1,
+          "point": 20,
+          "question": "?",
+          "answers": [
+            {
+              "id": 1,
+              "isCorrect": true,
+              "answer": ""
+            }
+          ]
+        }
+      ]
+    }
+  }
+}
